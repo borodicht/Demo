@@ -49,4 +49,9 @@ public class TeachMeSkills {
     public void test5() {
         Assert.assertEquals(checkNumber(0), "blablabla");
     }
+
+    @Test
+    public void test6() {
+        Assert.assertEquals(checkNumber(0), "blablabla");
+    }
 }
